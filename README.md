@@ -23,6 +23,7 @@ Stock Caelndar
 ## Android 程式概念
 使用AsyncTask抓取網路json資料
 呼叫第二個Acitvity並使用RecyclerView呈現
+然後將使用者勾選的項目新增到日曆
 ## app使用前準備
 需要先打開calendar的權限
 手機setting ->App&notifications -> App permissions -> Calendar 
