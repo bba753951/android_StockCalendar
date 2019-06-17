@@ -23,6 +23,11 @@ Stock Caelndar
 ## Android 程式概念
 使用AsyncTask抓取網路json資料
 呼叫第二個Acitvity並使用RecyclerView呈現
+## app使用前準備
+需要先打開calendar的權限
+手機setting ->App&notifications -> App permissions -> Calendar 
+![](https://i.imgur.com/s0grXOj.png)
+
 
 ## 成果
 ![](https://i.imgur.com/EMalbd5.gif)
